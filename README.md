@@ -21,7 +21,7 @@ The Faculty of Technology Mail Tracking System aims to streamline and enhance th
 
 The system architecture diagram provides a high-level overview of the system's components and their interactions. This includes the presentation layer, business logic layer, data access layer, and integration layer.
 
-- [System Architecture Diagram](diagrams/System_Architecture_Diagram.png)
+- [System Architecture Diagram](Diagrams/Architecture_Diagram.jpeg)
 
 ### Data Flow Diagrams
 
