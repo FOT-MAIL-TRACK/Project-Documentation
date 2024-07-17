@@ -47,7 +47,7 @@ The proposals section contains detailed documents outlining the project scope, o
 
 The Work Breakdown Structure (WBS) is a hierarchical decomposition of the total scope of work to accomplish the project objectives and create the deliverables.
 
-- [WBS Diagram](WorkBreakdownStructure(WBS).pdf)
+- [WBS Diagram](Work Breakdown Structure (WBS).pdf)
 
 ## Contributing
 
