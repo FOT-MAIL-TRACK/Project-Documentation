@@ -1,6 +1,6 @@
 # Faculty of Technology Mail Tracking System - Project Documentation
 
-Welcome to the official project documentation repository for the Faculty of Technology Mail Tracking System (FOTMAITrack). This repository contains all essential documents, diagrams, proposals, and work breakdown structures (WBS) for the project.
+Welcome to the official project documentation repository for the Faculty of Technology Mail Tracking System (FOTMAILrack). This repository contains all essential documents, diagrams, proposals, and work breakdown structures (WBS) for the project.
 
 ## Table of Contents
 
@@ -47,7 +47,7 @@ The proposals section contains detailed documents outlining the project scope, o
 
 The Work Breakdown Structure (WBS) is a hierarchical decomposition of the total scope of work to accomplish the project objectives and create the deliverables.
 
-- [WBS Diagram](Work Breakdown Structure (WBS).pdf)
+- [WBS Diagram](WorkBreakdownStructure(WBS).pdf)
 
 ## Contributing
 
