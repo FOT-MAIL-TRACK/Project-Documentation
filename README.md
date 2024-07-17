@@ -40,7 +40,7 @@ The entity-relationship (ER) diagrams show the database structure and the relati
 
 The proposals section contains detailed documents outlining the project scope, objectives, timeline, and budget.
 
-- [Project Proposal](proposals/Project_Proposal.pdf)
+- [Project Proposal](G15_ICT_Project_Proposal.pdf)
 
 
 ## Work Breakdown Structure (WBS)
