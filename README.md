@@ -23,18 +23,19 @@ The system architecture diagram provides a high-level overview of the system's c
 
 - [System Architecture Diagram](Diagrams/Architecture_Diagram.jpeg)
 
-### Data Flow Diagrams
+### Class Diagram
 
-The data flow diagrams (DFDs) illustrate how data moves through the system and the processes involved.
 
-- [DFD Level 0](diagrams/DFD_Level_0.png)
-- [DFD Level 1](diagrams/DFD_Level_1.png)
+- [Class_Diagram](Diagrams/Class_diagram.jpeg)
 
-### ER Diagrams
+### Sequence Diagram
 
-The entity-relationship (ER) diagrams show the database structure and the relationships between different entities.
 
-- [ER Diagram](diagrams/ER_Diagram.png)
+- [ER Diagram](Diagrams/Sequence_Diagram.jpeg)
+
+### DataBase Schema
+
+ - [Database Schema](Diagrams/Database_Scheme.jpeg)
 
 ## Proposals
 
